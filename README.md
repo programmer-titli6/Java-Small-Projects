@@ -1,5 +1,5 @@
 # Java-Small-Projects
-# Guess the Number Game in Java
+# prject: Guess the Number Game in Java
 
 ## Game Description:
 - The user needs to guess a randomly generated number between 1 and 100. The program provides feedback if the guess is too high or too low, and continues until the user guesses the correct number.
