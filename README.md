@@ -12,7 +12,8 @@
 
 <br/> 
 
-# Project: Student Information System with
+# Project: Student Information System with 
+
 Data Structures (Intermediate Project)
 
 ## Project Description:
